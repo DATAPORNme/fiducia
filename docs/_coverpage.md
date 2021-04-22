@@ -2,11 +2,11 @@
 
 # Fiducia in quantità <small>1</small>
 
-> A magical documentation site generator.
+> tesi sulla gestione dei dati conoscenza per ottenere consenso sullo scambio di conoscenza
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- #Dati
+- #Consenso
+- #Fiducia
 
 [GitHub](https://github.com/DATAPORNme/fiducia)
-[Get Started](#fiducia)
+[INIZIA](#fiducia)
