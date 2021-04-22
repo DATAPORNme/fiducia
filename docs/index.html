@@ -8,32 +8,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
   <link rel="icon" type="image/png" href="/_media/favicon_fiducia_196x196.png" sizes="196x196" />
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- Theme: Simple -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="/assets/css/custom.css">
+  <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"> -->
+
+  <!-- Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'Fiducia in quantità',
-      repo: 'https://github.com/DATAPORNme/fiducia',
+      repo: '',
       coverpage: true,
+      executeScript: true,
       loadSidebar: true,
+      loadNavbar: false,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
       search: {
         maxAge: 86400000, // Expiration time, the default one day
         paths: 'auto',
         placeholder: 'Cerca',
         depth: 2,
         hideOtherSidebarContent: true, // whether or not to hide other sidebar content
-      }
+        // Theme options
+        themeable: {
+          readyTransition: true // default
+        }
+      },
+
     }
   </script>
   <!-- Plugins -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//polyfill.io/v3/polyfill.min.js?features=String.prototype.normalize"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- docsify-themeable (latest v0.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-</body>
 </html>

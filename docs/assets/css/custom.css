@@ -1,0 +1,23 @@
+:root {
+    /* Reduce the font size */
+    --base-font-size: 17px;
+
+    /* Change the theme color hue */
+    --theme-hue: 230;
+
+    /* Change the sidebar bullets */
+    --sidebar-nav-link-before-content: '';
+
+    --base-background-color: #fffff8;
+
+    --heading-h1-font-family: Anton;
+
+  }
+
+.Anton {
+  font-family: "Anton", sans-serif;
+}
+
+.h1 {
+  font-family: "Anton";
+}
