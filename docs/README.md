@@ -1,5 +1,4 @@
-# Fiducia
-Fiducia in quantità - a data management thesis
+# INTRO
 
 Il mercato della conoscenza è fatto di prodotti e servizi basati sullo scambio di dati. Senza fiducia non esiste nessun mercato, e per quello della conoscenza serve fiducia nella distribuzione dei dati da parte delle persone. Le persone che aderiscono al mercato della conoscenza, danno il proprio consenso a chi crea forme di contrattazione e negoziazione tra i propri interessi individuali e i dati. La fiducia nei metodi e la gestione della conoscenza, aiuta a distinguere i fatti dalle opinioni. Le persone offrono e domandano servizi e prodotti della conoscenza solo se sanno definire i propri bisogni. I dati sono un capitale diffuso che perde valore senza riuso e applicazione. La scelta di distribuire i dati e trasformarli in conoscenza comporta certamente dei rischi, che sono però inferiori rispetto alle opportunità.
 

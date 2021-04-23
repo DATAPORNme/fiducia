@@ -1,12 +1,12 @@
-![logo](_media/lc_logo.svg)
+![logo](assets/icons/lc_logo.svg)
 
-# Fiducia in quantità <small>1</small>
+# Fiducia in quantità <small>2</small>
 
-> tesi sulla gestione dei dati conoscenza per ottenere consenso sullo scambio di conoscenza
+> Tesi sulla gestione dei dati per ottenere consenso sullo scambio di conoscenza
 
-- #Dati
-- #Consenso
-- #Fiducia
+- #datamanagement
+- #openaccess
+- #opendata
 
 [GitHub](https://github.com/DATAPORNme/fiducia)
-[INIZIA](#fiducia)
+[Inizia](#home)
