@@ -9,4 +9,4 @@
 - #opendata
 
 [GitHub](https://github.com/DATAPORNme/fiducia)
-[Inizia](#home)
+[Inizia](#intro)
