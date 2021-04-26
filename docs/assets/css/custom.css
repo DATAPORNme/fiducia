@@ -3,3 +3,21 @@
 Put your custom CSS in this file.
 ===============================================================================================================================
 */
+.content {
+  background-color: #fffff8;
+}
+
+img {
+  padding-top: 0;
+}
+
+.tesi {
+  font-family: Anton;
+  font-size: 2em;
+}
+
+@media screen and (max-width:800px) {
+  .tesi {
+    font-size: 1.5em;
+  }
+}

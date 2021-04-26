@@ -1,12 +1,37 @@
-
-- 1 Opinioni
-  - [1 Conoscenza?](1-opinioni/1_conoscenza.md)
-  - [2 Opinioni](1-opinioni/2_opinioni.md)
-  - [3 Dati](1-opinioni/3_dati.md)
+- [Intro](/README.md)
+- Opinioni
+  - [Conoscenza?](1-opinioni/1_conoscenza.md)
+  - [Opinioni](1-opinioni/2_opinioni.md)
+  - [Dati](1-opinioni/3_dati.md)
+  - [Persone](1-opinioni/4_persone.md)
 - Pregiudizi
+  - [Pregiudizi](2-pregiudizi/5_pregiudizi.md)
+  - [Capisaldi](2-pregiudizi/6_capisaldi.md)
+  - [Social](2-pregiudizi/7_social.md)
+  - [Rendita](2-pregiudizi/8_rendita.md)
+  - [Condivisione](2-pregiudizi/9_condivisione.md)
 - Dati
+  - [Lock-in](3-dati/10_lock-in.md)
+  - [Worker](3-dati/11_worker.md)
+  - [Trasformare](3-dati/12_trasformare.md)
+  - [Condizionare](3-dati/13_condizionare.md)
+  - [Scambio](3-dati/14_scambio.md)
 - Economia
+  - [Monetizzare](4-economia/15_monetizzare.md)
+  - [Volume](4-economia/16_volume.md)
+  - [Massimizzare](4-economia/17_massimizzare.md)
+  - [Recinzione](4-economia/18_recinzione.md)
+  - [Contrattazione](4-economia/19_contrattazione.md)
+  - [Costo](4-economia/20_costo.md)
+  - [Disponibilità](4-economia/21_disponibilità.md)
+  - [Aumento](4-economia/22_aumento.md)
 - Consenso
+  - [Opportunità](5-consenso/23_opportunità.md)
+  - [Favorire](5-consenso/24_favorire.md)
+  - [Relazione](5-consenso/25_relazione.md)
+  - [Capitale](5-consenso/26_capitale.md)
+  - [Fiducia](5-consenso/27_fiducia.md)
+  - [Patto](5-consenso/28_patto.md)
 - Incertezza
 - Scelta
 - Prestigio
