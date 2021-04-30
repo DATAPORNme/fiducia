@@ -23,7 +23,9 @@ Ma non avendo un riferimento fisico ma non lo è
 
 Per Foucault come per i post-Wittgenstein il significato non é un ente astratto ma é l’uso (delle parole, che compongono un linguaggio)
 
-La pietà
+La Pietà di Tiziano è del 1576. Guardandola pare un lavoro di un maestro impressionista. Il lavoro che ci è arrivato è stato completato dopo la morte di Tiziano da Palma il Giovane, con *pietà* e devozione verso il maestro. Senza conoscere la storia della tela, si viene catturati dalla forza delle espressioni dei volti e dalle pennellate asciutte che accennano tutta la scena. È una scena di morte, ma per chi l'ha fatta c'era anche la speranza nell'Aldilà, e il dipinto era un grande *ex voto* per la salvezza di Tiziano
+
+La Pietà è un sentimento e un soggetto nell'iconografia cristiana. La [Pietà](https://it.wikipedia.org/wiki/Piet%C3%A0_(Tiziano)) è un lavoro e un *ex voto*. Tiziano aveva oltre ottanta anni e c'era la peste che aveva già ucciso il figlio, e prese la Pietà respinta dai committenti in un voto per la salvezza sua e del figlio nell'aldilà. Non riuscì a finirla
 
 
 
