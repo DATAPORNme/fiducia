@@ -4,4 +4,4 @@
 
 ![Archeosticker](../assets/images/95-Laptop.jpg ':size=450x100%')
 
-###### Fonte: [Archeostickers](https://archeostickers.com/2017/01/13/95-laptop.html) • Soggetto: [Naiskos di donna con schiavetta](https://it.wikipedia.org/wiki/Naiskos)
+<small> Fonte: [Archeostickers](https://archeostickers.com/2017/01/13/95-laptop.html) • Soggetto: [Naiskos di donna con schiavetta](https://it.wikipedia.org/wiki/Naiskos)</small>

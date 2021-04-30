@@ -4,4 +4,4 @@
 
 ![Good Bye Lenin!](../assets/images/goodbyeleninset01.gif ':size=450x100%')
 
-###### Fonte: [Giffetteria](http://giffetteria.it/gif/good-bye-lenin-14/) • Soggetto: [Good Bye Lenin!](https://it.wikipedia.org/wiki/Good_Bye,_Lenin!)
+<small> Fonte: [Giffetteria](http://giffetteria.it/gif/good-bye-lenin-14/) • Soggetto: [Good Bye Lenin!](https://it.wikipedia.org/wiki/Good_Bye,_Lenin!)</small>

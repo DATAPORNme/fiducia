@@ -4,4 +4,4 @@
 
 ![Cenerentola](../assets/images/cenerentola.gif ':size=450x100%')
 
-###### Fonte: [Disney](https://disney.tumblr.com/post/107529885042/the-magic-behind-the-magic) • Soggetto: [Cenerentola](https://it.wikipedia.org/wiki/Cenerentola_(film_1950))
+<small> Fonte: [Disney](https://disney.tumblr.com/post/107529885042/the-magic-behind-the-magic) • Soggetto: [Cenerentola](https://it.wikipedia.org/wiki/Cenerentola_(film_1950))</small>

@@ -4,4 +4,4 @@
 
 ![Eco](../assets/images/eco.gif ':size=450x100%')
 
-###### Fonte: [Giffetteria](http://giffetteria.it/gif/umberto-eco/) • Soggetto: [Umberto Eco](https://it.wikipedia.org/wiki/Umberto_Eco)
+<small> Fonte: [Giffetteria](http://giffetteria.it/gif/umberto-eco/) • Soggetto: [Umberto Eco](https://it.wikipedia.org/wiki/Umberto_Eco)</small>

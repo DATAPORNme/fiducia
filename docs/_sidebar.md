@@ -1,4 +1,3 @@
-- [Intro](/README.md)
 - Opinioni
   - [Conoscenza?](1-opinioni/1_conoscenza.md)
   - [Opinioni](1-opinioni/2_opinioni.md)
@@ -33,8 +32,35 @@
   - [Fiducia](5-consenso/27_fiducia.md)
   - [Patto](5-consenso/28_patto.md)
 - Incertezza
+  - [Indebolimento](6-incertezza/29_indebolimento.md)
+  - [Incertezza](6-incertezza/30_incertezza.md)
+  - [Riflesso](6-incertezza/31_riflesso.md)
+  - [Corrispondenza](6-incertezza/32_corrispondenza.md)
+  - [Cambiamento](6-incertezza/33_cambiamento.md)
 - Scelta
+  - [Progredire](7-scelta/34_progredire.md)
+  - [Scelta](7-scelta/35_scelta.md)
+  - [Individuale](7-scelta/36_individuale.md)
+  - [Valore](7-scelta/37_valore.md)
+  - [Negoziazione](7-scelta/38_negoziazione.md)
+  - [Andamento](7-scelta/39_andamento.md)
+  - [Mercato](7-scelta/40_mercato.md)
+  - [Interesse](7-scelta/41_interesse.md)
+  - [Concorrenza](7-scelta/42_concorrenza.md)
+  - [Protezione](7-scelta/43_protezione.md)
+  - [Vantaggio](7-scelta/44_vantaggio.md)
+  - [Confronto](7-scelta/45_confronto.md)
 - Prestigio
+  - [Vanità](8-prestigio/46_vanità.md)
+  - [Popolarità](8-prestigio/47_popolarità.md)
+  - [Ansia](8-prestigio/48_ansia.md)
+  - [Prestigio](8-prestigio/49_prestigio.md)
+  - [Persuasione](8-prestigio/50_persuasione.md)
+  - [Metodo](8-prestigio/51_metodo.md)
+  - [Storia](8-prestigio/52_storia.md)
+  - [Evitare](8-prestigio/53_evitare.md)
+  - [Complessità](8-prestigio/54_complessità.md)
+  - [Te stesso](8-prestigio/55_te-stesso.md)
 - Riferimenti
 
 [**DOI**: 10.5281/ZENODO.4694568](https://doi.org/10.5281/zenodo.4694568)

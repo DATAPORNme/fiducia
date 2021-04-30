@@ -4,4 +4,4 @@
 
 ![Magic Cure](../assets/images/magic-cure.gif ':size=450x100%')
 
-###### Fonte: [The Gif Opera Cabinet](https://gifopera.tumblr.com/post/91148695355/the-magic-cure)
+<small> Fonte: [The Gif Opera Cabinet](https://gifopera.tumblr.com/post/91148695355/the-magic-cure)</small>
