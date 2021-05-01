@@ -1,5 +1,8 @@
 # Fiducia in quantità
 
+
+## Il mondo è dato
+
 #### Conoscenza?
 
 <span class="tesi">#1.1 COME OTTENERE FIDUCIA E CONSENSO SULLA CONOSCENZA?</span>
