@@ -1,6 +1,6 @@
 ![logo](assets/icons/lc_logo.svg)
 
-# Fiducia in quantità <small>2</small>
+# I dati e le cose <small>2</small>
 
 > Tesi sulla gestione dei dati per ottenere consenso sullo scambio di conoscenza
 
@@ -11,4 +11,4 @@
 - #opendata
 
 [GitHub](https://github.com/DATAPORNme/fiducia)
-[Inizia](#intro)
+[Inizia](/README.md)

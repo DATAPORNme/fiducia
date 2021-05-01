@@ -1,0 +1,225 @@
+# Fiducia in quantità
+
+#### Conoscenza?
+
+<span class="tesi">#1.1 COME OTTENERE FIDUCIA E CONSENSO SULLA CONOSCENZA?</span>
+
+#### Opinioni
+
+<span class="tesi">#1.2 LE OPINIONI INDIRIZZANO IL CONSENSO</span>
+
+#### Dati
+
+<span class="tesi">#1.3 I DATI SONO CONDIVISI SOLO SE LE OPINIONI SONO CONDIVISE</span>
+
+#### Persone
+
+<span class="tesi">#1.4 LE PERSONE SCELGONO LE OPINIONI PER DECIDERE. PERCHÉ È PIÙ COMODO E VELOCE</span>
+
+#### Pregiudizi
+
+<span class="tesi">#2.1 LE OPINIONI INFLUENZANO I PREGIUDIZI</span>
+
+#### Capisaldi
+
+<span class="tesi">#2.2 I PREGIUDIZI SONO BASATI SU DUE CAPISALDI: PIGRIZIA E ACCESSIBILITÀ</span>
+
+#### Social
+
+<span class="tesi">#2.3 SOCIAL NETWORK E MEME SONO ALLEATI DELLA PERSUASIONE</span>
+
+#### Rendita
+
+<span class="tesi">#2.4 (PIGRIZIA + ACCESSIBILITÀ) x VANITÀ = RENDITA DI POSIZIONE</span>
+
+#### Condivisione
+
+<span class="tesi">#2.5 LA CONDIVISIONE DI DATI INCOMPLETI RAFFORZA LA RENDITA DI POSIZIONE E CREA FRIZIONI</span>
+
+#### Lock-in
+
+<span class="tesi">#3.1 IL VENDOR LOCK-IN SUI DATI È STUPIDO</span>
+
+#### Worker
+
+<span class="tesi">#3.2 VUOI KNOWLEDGE WORKER PER TRASFORMARE DATI IN CONOSCENZA?</span>
+
+#### Trasformare
+
+<span class="tesi">#3.3 IL KNOWLEDGE WORKER AGGREGA VALUTA E TRASFORMA I DATI IN PRODOTTI E SERVIZI DI CONOSCENZA</span>
+
+#### Condizionare
+
+<span class="tesi">#3.4 L'ACCESSO AI DATI CONDIZIONA IL MERCATO DI CONOSCENZA</span>
+
+#### Scambio
+
+<span class="tesi">#3.5 LO SCAMBIO DEI DATI CREA LA DOMANDA E L'OFFERTA NEL MERCATO DELLA CONOSCENZA</span>
+
+#### Scambio
+
+<span class="tesi">#3.5 LO SCAMBIO DEI DATI CREA LA DOMANDA E L'OFFERTA NEL MERCATO DELLA CONOSCENZA</span>
+
+#### Monetizzare
+
+<span class="tesi">#4.1 L'ECONOMIA DELLA CONOSCENZA MONETIZZA SULL'ACCESSO AI SERVIZI E PRODOTTI</span>
+
+#### Volume
+
+<span class="tesi">#4.2 MAGGIORE È L'ACCESSO AI DATI, MAGGIORE È IL VOLUME DEGLI SCAMBI DI CONOSCENZA</span>
+
+#### Massimizzare
+
+<span class="tesi">#4.3 MASSIMIZZARE SULLO SCAMBIO DEI DATI, METTE A RISCHIO IL MERCATO DELLA CONOSCENZA</span>
+
+#### Recinzione
+
+<span class="tesi">#4.4 LA RECINZIONE DEI DATI AUMENTA I COSTI DI SCAMBIO E DI PRODUZIONE</span>
+
+#### Contrattazione
+
+<span class="tesi">#4.5 LA DISTRIBUZIONE APERTA DEI DATI È UNA CONTRATTAZIONE SUI PRODOTTI E I SERVIZI DI CONOSCENZA</span>
+
+#### Costo
+
+<span class="tesi">#4.6 IL COSTO DEI DATI DIPENDE DAL VOLUME DEGLI SCAMBI DI PRODOTTI E SERVIZI DI CONOSCENZA</span>
+
+#### Disponibilità
+
+<span class="tesi">4.7 LA DISPONIBILITÀ DI DATI DIPENDE DAL VALORE ECONOMICO E SOCIALE DELLA LORO TRASFORMAZIONE</span>
+
+#### Aumento
+
+<span class="tesi">4.8 L'AUMENTO DELLA DOMANDA E DELL'OFFERTA DI CONOSCENZA RIDUCE IL VANTAGGIO DELLE OPINIONI</span>
+
+#### Opportunità
+
+<span class="tesi">5.1 IL CONSENSO NASCE DALLA PARI OPPORTUNITÀ NELL'ACCESSO AI DATI</span>
+
+#### Favorire
+
+<span class="tesi">5.2 NEL MERCATO DELLA CONOSCENZA HA CONSENSO CHI FAVORISCE GLI SCAMBI</span>
+
+#### Relazione
+
+<span class="tesi">5.3 IL MERCATO DELLA CONOSCENZA È UNA FORMA DI RELAZIONE POTENZIALMENTE ILLIMITATA E RIPRODUCIBILE</span>
+
+#### Capitale
+
+<span class="tesi">5.4 LA CONOSCENZA È UN CAPITALE DISTRIBUITO</span>
+
+#### Fiducia
+
+<span class="tesi">5.5 IL CONSENSO AUMENTA LA FIDUCIA NEL MERCATO DELLA CONOSCENZA</span>
+
+#### Patto
+
+<span class="tesi">5.6 GLI SCAMBI DI DATI SONO UN PATTO SOCIALE ED ECONOMICO TRA LE PERSONE E LE COMUNITÀ</span>
+
+#### Indebolimento
+
+<span class="tesi">6.1 L'INDEBOLIMENTO DEL PATTO SOCIALE ED ECONOMICO DELLO SCAMBIO DI DATI CREA INCERTEZZA</span>
+
+#### Incertezza
+
+<span class="tesi">6.2 L'INCERTEZZA ABBASSA IL VALORE E ALZA I COSTI DELLA CONOSCENZA</span>
+
+#### Riflesso
+
+<span class="tesi">6.3 L'INCERTEZZA SUGLI SCAMBI DI DATI SI RIFLETTE SUL CONSENSO</span>
+
+#### Corrispondenza
+
+<span class="tesi">6.4 ALLA RIDUZIONE DELL'ACCESSO AI DATI CORRISPONDE UN AUMENTO DELL'INCERTEZZA</span>
+
+#### Cambiamento
+
+<span class="tesi">6.5 L'INCERTEZZA RIDUCE LA DISPONIBILITÀ AL CAMBIAMENTO</span>
+
+#### Progredire
+
+<span class="tesi">7.1 UNA SOCIETÀ PROGREDISCE PER DEI CAMBIAMENTI</span>
+
+#### Scelta
+
+<span class="tesi">7.2 IL CAMBIAMENTO È LA SCELTA DI NUOVE RELAZIONI ATTRAVERSO SCAMBI DI DATI TRA LE PERSONE</span>
+
+#### Individuale
+
+<span class="tesi">7.3 LA SCELTA È SEMPRE INDIVIDUALE, MA HA VALORE SOCIALE E ECONOMICO QUANDO DIVENTA COLLETTIVA</span>
+
+#### Valore
+
+<span class="tesi">7.4 IL VALORE DEI DATI NON È COSTANTE, MA È UNA NEGOZIAZIONE TRA CHI VUOLE TRASFORMARE E CHI DETIENE</span>
+
+#### Negoziazione
+
+<span class="tesi">7.5 LA DISTRIBUZIONE DEI DATI È UNA NEGOZIAZIONE A MONTE</span>
+
+#### Andamento
+
+<span class="tesi">7.6 L’ANDAMENTO DEL VALORE DEI DATI È CORRELATO ALLA SUA PRODUZIONE NELLE DINAMICHE SOCIALI E NEGLI INTERESSI PUBBLICI</span>
+
+#### Mercato
+
+<span class="tesi">7.7 IL CONSENSO AL MERCATO DELLA CONOSCENZA AIUTA LA CONTRATTAZIONE TRA INTERESSI INDIVIDUALI E PUBBLICI</span>
+
+#### Interesse
+
+<span class="tesi">7.8 IL CONSENSO AL MERCATO DELLA CONOSCENZA AIUTA LA CONTRATTAZIONE TRA INTERESSI INDIVIDUALI E PUBBLICI</span>
+
+#### Concorrenza
+
+<span class="tesi">7.9 LA CONCORRENZA CREA CONSENSO SE L'ACCESSO AI DATI È LIBERO</span>
+
+#### Protezione
+
+<span class="tesi">7.10 IL LIBERO ACCESSO AI DATI PROTEGGE L'INTERESSE INDIVIDUALE</span>
+
+#### Vantaggio
+
+<span class="tesi">7.11 UNA SCELTA DEVE PORTARE VANTAGGIO A CHI L'HA COMPIUTA</span>
+
+#### Confronto
+
+<span class="tesi">7.12 LE OPINIONI NON DANNO EVIDENZE DI QUANTITÀ E CONFRONTO</span>
+
+#### Vanità
+
+<span class="tesi">8.1 LE OPINIONI SONO LO SPECCHIO DELLA VANITÀ</span>
+
+#### Popolarità
+
+<span class="tesi">8.2 LE OPINIONI NON CREANO CONSENSO MA POPOLARITÀ</span>
+
+#### Ansia
+
+<span class="tesi">8.3 LA POPOLARITÀ CREA ANSIA</span>
+
+#### Prestigio
+
+<span class="tesi">8.4 IL PRESTIGIO OTTIENE CONSENSO NEL TEMPO E NELLA VERIFICA</span>
+
+#### Persuasione
+
+<span class="tesi">8.5 LA POPOLARITÀ DIVIDE. IL PRESTIGIO PERSUADE</span>
+
+#### Metodo
+
+<span class="tesi">8.6 IL METODO PERSUADE PIÙ DEI DATI E DELLA CONOSCENZA</span>
+
+#### Storia
+
+<span class="tesi">8.7 IL VALORE DELLA CONOSCENZA STA NELLA SUA STORIA COLLETTIVA</span>
+
+#### Evitare
+
+<span class="tesi">8.8 CERCA LA PACE, EVITA DI COMBATTERE IN UNA SITUAZIONE ISOLATA O DEBOLE</span>
+
+#### Complessità
+
+<span class="tesi">8.9 VISTA DA LONTANO LA COMPLESSITÀ APPARE PICCOLA</span>
+
+#### Te stesso
+
+<span class="tesi">8.10 SII DATO DI TE STESSO</span>
